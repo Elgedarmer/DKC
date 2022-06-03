@@ -1,2 +1,2 @@
-# DKC
+# dkcparty
 Game party for political servers based on Towny in minecraft
